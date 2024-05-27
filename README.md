@@ -6,7 +6,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 [![image.png](https://i.postimg.cc/brxpvgK8/image.png)](https://postimg.cc/Pv5B3WXF)
 
-Live Site [URL](https://your-live-site-url.com)
+Live Site [URL](https://oswebdevelop.github.io/Frontendmentor-Blog-Card/)
 
 ### Built with
 
