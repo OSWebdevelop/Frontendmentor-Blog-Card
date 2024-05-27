@@ -5,6 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Preview
 
 [![image.png](https://i.postimg.cc/brxpvgK8/image.png)](https://postimg.cc/Pv5B3WXF)
+
 Live Site [URL](https://your-live-site-url.com)
 
 ### Built with
