@@ -81,6 +81,10 @@ body{
 .card__content h2{
   font-weight: 800;
 }
+.card__content h2:hover{
+  cursor: pointer;
+  color: var(--color-primary-yellow);
+}
 .card__content p{
   color: var(--color-neutral-grey);
 }
